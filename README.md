@@ -1,5 +1,9 @@
-# 2-D Random walks discrete in Space and Time.
-In the jupyter notebooks, I show simple examples of Random Walks on a 2D surface with periodic boundary conditions along one direction. 
+Random Walk Models
+======
+[Random walk models](https://en.wikipedia.org/wiki/Random_walk) are used across many disciplines to study a wide of variety of processes. Here, I give a few examples of lattice random walks.  
+
+## 2-D Random walks
+Here, I show simple examples of discrete Random Walks on a 2D surface with periodic boundary conditions along one direction. 
 
 - We first simulate the many random walks for $\textbf{nSteps}$ for fixed dimension of $X,Y$. 
 
@@ -7,7 +11,7 @@ In the jupyter notebooks, I show simple examples of Random Walks on a 2D surface
 
 - This yields the possible probability ditribution. 
 
-The Following are the parameters that are involved for this study:
+The Following are the parameters that are involved :
 - $nSteps$: No. of steps the walker takes in each walk
 - $nRuns$: No.of Random Walks of nSteps over which we average
 - $(x,y)$ : The Boundary conditions for the cylindrical surface
