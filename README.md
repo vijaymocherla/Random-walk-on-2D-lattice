@@ -1,5 +1,5 @@
 # 2-D Random walks discrete in Space and Time.
-The Random Walk on a 2D surface with periodic boundary conditions along one direction is explored in this work. 
+In the jupyter notebooks, I show simple examples of Random Walks on a 2D surface with periodic boundary conditions along one direction. 
 
 - We first simulate the many random walks for $\textbf{nSteps}$ for fixed dimension of $X,Y$. 
 
